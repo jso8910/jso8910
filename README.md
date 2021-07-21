@@ -2,9 +2,9 @@
 
 Well hello there! I am Jason, and I do random coding stuff. I know how to code in Python and Kotlin, and I know some Java.
 
-[![Jason github stats](https://github-readme-stats.vercel.app/api?username=jso8910&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Jason github stats](https://github-readme-stats.vercel.app/api?username=jso8910&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jason Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jso8910)](https://github.com/anuraghazra/github-readme-stats)
+[![Jason Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jso8910&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jso8910&theme=dark)](https://git.io/streak-stats)
 
