@@ -6,6 +6,8 @@ Well hello there! I am Jason, and I do random coding stuff. I know how to code i
 
 [![Jason Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jso8910)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jso8910&theme=dark)](https://git.io/streak-stats)
+
 
 Anyways I just added a a gpg key which you can see in the file [gpg.asc](https://github.com/jso8910/jso8910/blob/master/gpg.asc).
 <!--
