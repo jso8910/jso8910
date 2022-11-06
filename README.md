@@ -2,9 +2,9 @@
 
 Well hello there! I am Jason, and I do random coding stuff. I know how to code in Python and Kotlin, and I know some Java.
 
-Follow me on my new Mastodon.
+<a rel="me" href="https://fosstodon.org/@jsonr">Follow me on my Mastodon.</a>
 
-<a rel="me" href="https://fosstodon.org/@jsonr"><img alt="Mastodon" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" height="60" style="visibility:visible;max-width:100%;"></a>
+<img alt="Mastodon" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" height="60" style="visibility:visible;max-width:100%;">
 
 [![Jason github stats](https://github-readme-stats.vercel.app/api?username=jso8910&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
